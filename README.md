@@ -1,2 +1,2 @@
 # Principles-of-Programming-course
-CSU Global Programming course during MS of AI &amp; Machine learning
+Coursework and programming assignments for CSC500 Principles of Programming.
